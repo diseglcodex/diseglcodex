@@ -1,25 +1,29 @@
 <div align="center">
+  <!-- Ganti 'path/to/your/logo.png' dengan URL langsung ke logo Anda di repositori ini.
+       Contoh: https://raw.githubusercontent.com/diseglcodex/diseglcodex/main/assets/disegl_codex_logo.png
+  -->
   <img src="https://raw.githubusercontent.com/diseglcodex/diseglcodex/main/path/to/your/logo.png" alt="Disegl Codex Logo" width="150" height="150">
   <br>
-  <h1>Halo, Saya DISEGL CODEX <span style="color:#FF0000;">🔴</span><span style="color:#FFFFFF;">⚪️</span></h1>
+  <h1>Halo, Kami DISEGL CODEX <span style="color:#FF0000;">🔴</span><span style="color:#FFFFFF;">⚪️</span></h1>
   <p>Mendekripsi Kode. Menginovasi Teknologi. Membangun Pengalaman Digital yang Memukau.</p>
 </div>
 
 ---
 
-### **🚀 Tentang Saya**
+### **🚀 Tentang Kami**
 
-Saya adalah seorang entusiast di persimpangan **coding, desain UI/UX, dan inovasi teknologi**. Melalui **Disegl Codex**, saya berdedikasi untuk mengubah ide-ide kompleks menjadi solusi digital yang elegan dan fungsional. Saya percaya bahwa setiap baris kode dan setiap elemen desain memiliki kekuatan untuk membentuk masa depan.
+Kami adalah sekelompok entusiast di persimpangan **coding, desain UI/UX, dan inovasi teknologi**. Melalui **Disegl Codex**, kami berdedikasi untuk mengubah ide-ide kompleks menjadi solusi digital yang elegan dan fungsional. Kami percaya bahwa setiap baris kode dan setiap elemen desain memiliki kekuatan untuk membentuk masa depan.
 
-* **Fokus Utama:** Pengembangan Antarmuka Pengguna (UI/UX), Pengembangan Frontend/Backend, Kecerdasan Buatan & Otomasi, Konsep Teknologi Inovatif.
-* **Misi:** Menghadirkan wawasan, alat, dan proyek yang menginspirasi para kreator dan developer.
+* **Fokus Utama Kami:** Pengembangan Antarmuka Pengguna (UI/UX), Pengembangan Frontend/Backend, Kecerdasan Buatan & Otomasi, Konsep Teknologi Inovatif.
+* **Misi Kami:** Menghadirkan wawasan, alat, dan proyek yang menginspirasi para kreator dan developer.
 
 ---
 
-### **🛠️ Skillset & Tech Stack**
+### **🛠️ Skillset & Tech Stack Kami**
 
-Berikut adalah beberapa teknologi dan *tools* yang saya kuasai dan sering gunakan:
+Berikut adalah beberapa teknologi dan *tools* yang kami kuasai dan sering gunakan dalam proyek-proyek kami:
 
+<!-- Anda bisa menemukan lebih banyak badge keren di https://shields.io/ -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,20 +34,23 @@ Berikut adalah beberapa teknologi dan *tools* yang saya kuasai dan sering gunaka
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<!-- Tambahkan badge lain sesuai keahlian tim Anda: SQL, TypeScript, Vue.js, Angular, AWS, Azure, GCP, dll. -->
+
 ---
 
-### **💡 Proyek Unggulan**
+### **💡 Proyek Unggulan Kami**
 
-Beberapa proyek yang saya banggakan dan bisa Anda jelajahi:
+Beberapa proyek yang kami banggakan dan bisa Anda jelajahi:
 
 * [**Disegl-Login-Transition**](https://github.com/diseglcodex/Disegl-Login-Transition): Demo transisi UI login yang elegan dari konsep sederhana ke profesional. Sebuah studi kasus dalam desain pengalaman pengguna.
-* [**Nama Proyek Lain**](https://github.com/diseglcodex/Nama-Repo-Lain): Deskripsi singkat tentang proyek ini dan teknologi yang digunakan.
+* [**Nama Proyek Lain**](https://github.com/diseglcodex/Nama-Repo-Lain): Deskripsi singkat tentang proyek ini dan teknologi yang digunakan oleh tim kami.
 * [**Nama Proyek Ketiga**](https://github.com/diseglcodex/Nama-Repo-Ketiga): Deskripsi singkat tentang proyek ini dan dampaknya.
 
 ---
 
-### **📊 Statistik GitHub Saya (Opsional, tapi Menarik!)**
+### **📊 Statistik GitHub Kami (Opsional, tapi Menarik!)**
 
+<!-- Ganti 'diseglcodex' dengan username GitHub organisasi atau tim Anda -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diseglcodex&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Statistik GitHub Disegl Codex" />
   <br/>
@@ -54,16 +61,16 @@ Beberapa proyek yang saya banggakan dan bisa Anda jelajahi:
 
 ### **🌐 Terhubung dengan DISEGL CODEX**
 
-Mari terhubung dan jelajahi lebih banyak tentang dunia teknologi dan desain bersama!
+Mari terhubung dan jelajahi lebih banyak tentang dunia teknologi dan desain bersama kami!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diseglcodex)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@disegl7)
-[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)]([Link Channel Telegram Anda])
-[![Telegram Group](https://img.shields.io/badge/Telegram%20Group-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)]([Link Grup Telegram Anda])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Link Profil LinkedIn Anda - Opsional])
+[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/diseglcodex)
+[![Telegram Group](https://img.shields.io/badge/Telegram%20Group-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/diseglcodexx)
+
 
 ---
 
-**[Kunjungi Website Resmi Disegl Codex (jika ada) - disarankan untuk portofolio yang lebih luas!]**
+**[DISEGL CODEX]**
 
 ---
